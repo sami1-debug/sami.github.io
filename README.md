@@ -1,4 +1,5 @@
 # sami.github.io
+![Networking Diagram](Diagram.jpg)
 
 Ubuntu Desktop:
 * Connected via LAN Adapter 1 (Internal Network).
